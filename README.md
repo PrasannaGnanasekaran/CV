@@ -11,7 +11,10 @@ As an Mechatronics Engineering student with a keen interest in software developm
 
       • The Robotics internship comes with lessons and project to learn, built, code and simulates virtually.)
 • During my internship ,I had the opportunity to explore the world of Project Coding and deeplearning, which I
-subsequently applied to a significant projec
+subsequently applied to a significant project
+### PROJECTS
+### E-YANTRA,IIT BOMBAY
+Collaborated in a team of three to design model of custom exo hand for stakeholder
 
 - 🔭 I’m currently working on this page. 
 
