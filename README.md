@@ -15,8 +15,7 @@ subsequently applied to a significant project
 ### PROJECTS
 ### E-YANTRA,IIT BOMBAY
 Collaborated in a team of three to design model of custom exo hand for stakeholder
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="https://youtu.be/daW5yb4vq5Y?si=0b-2NQOOamxm-r95"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 - 🔭 I’m currently working on this page. 
