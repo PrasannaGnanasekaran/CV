@@ -8,6 +8,7 @@ As an Mechatronics Engineering student with a keen interest in software developm
           JAVA | PYTHON | HTML | PLC
 ### EXPERIENCE
  KODACY : Chennai, IN: Research & Dev Development Intern
+
       • The Robotics internship comes with lessons and project to learn, built, code and simulates virtually.)
 • During my internship ,I had the opportunity to explore the world of Project Coding and deeplearning, which I
 subsequently applied to a significant projec
