@@ -1,4 +1,4 @@
- Prasanna Gnanasekaran  
+### Prasanna Gnanasekaran  
 #### MECHATRONICS ENGINEER | KCG COLLEGE OF TECHNOLOGY 
 ![MECHATRONICS ENGINEER | KCG COLLEGE OF TECHNOLOGY ](https://images.app.goo.gl/RePFGfsUmrxHye8e6)
 
@@ -15,7 +15,7 @@ subsequently applied to a significant project
 ### PROJECTS
 ### E-YANTRA,IIT BOMBAY
 Collaborated in a team of three to design model of custom exo hand for stakeholder
-[![ORTHOTHIC HAND EXOSKELETON ](http://img.youtube.com/vi/I22TBler01y21DWY/0.jpg)](http://www.youtube.com/watch?v=I22TBler01y21DWY)
+[![ORTHOTHIC HAND EXOSKELETON ](http://img.youtube.com/vi/v=daW5yb4vq5Y/0.jpg)](http://www.youtube.com/watch?v=daW5yb4vq5Y)
 
 - 🔭 I’m currently working on this page. 
 
