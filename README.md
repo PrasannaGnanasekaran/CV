@@ -15,7 +15,7 @@ subsequently applied to a significant project
 ### PROJECTS
 ### E-YANTRA,IIT BOMBAY
 Collaborated in a team of three to design model of custom exo hand for stakeholder
-[![ORTHOTHIC HAND EXOSKELETON ][![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=daW5yb4vq5Y)
+[![ORTHOTHIC HAND EXOSKELETON ][![Watch the video](https://www.youtube.com/watch?v=daW5yb4vq5Y)]
 
 - 🔭 I’m currently working on this page. 
 
