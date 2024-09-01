@@ -1,6 +1,5 @@
 ### Prasanna Gnanasekaran  
 #### MECHATRONICS ENGINEER | KCG COLLEGE OF TECHNOLOGY 
-(http://img.youtube.com/vi/daW5yb4vq5Y/0.jpg)
 
 As an Mechatronics Engineering student with a keen interest in software development, I bring a unique blend of technical and data analytical skills and a passion for coding and Interested to Explore Endless Opportunity In Field Of Mechatronics And Embark My Journey On The Same
 
